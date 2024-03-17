@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (CodingThread.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  CodingThreadDlg.cpp
+  CodingThread.vcxproj -> C:\Users\oitut\source\repos\server_temp-main\CodingThread\Debug\Client.exe
